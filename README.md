@@ -144,13 +144,11 @@ MIT License. See `LICENSE`.
 
 ---
 
-## ✨ Screenshots
+## 🙌 Working Example
 
-| Upload & Process | Chat with Document |
-|------------------|-------------------|
-| ![upload](./assets/upload.png) | ![chat](./assets/chat.png) |
+![Adobe Express - 2025-08-02 19-43-53 (1)](https://github.com/user-attachments/assets/b8a73498-525f-44dc-9269-16e3f146e192)
 
----
+
 
 ## 🤝 Contribute
 
